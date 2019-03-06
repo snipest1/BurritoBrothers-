@@ -1,0 +1,582 @@
+run:
+Welcome to Burrito Brothers restaurant
+
+Choose simulator mode: 
+1: Automatic Mode *automatically processes orders
+2: Manual Entry Mode (Advanced) 
+1
+------------- Customers activity --------------------|-------------------- Servers activity --------------
+Welcome! Cust #1 with order of 3 Burritos In
+Customer #1 with order of 3 burritos waiting in line
+                                                       Server #2 serving Customer #1
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Welcome! Cust #2 with order of 7 Burritos In
+Customer #2 with order of 7 burritos waiting in line
+                                                       Server #1 serving Customer #2
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Welcome! Cust #3 with order of 22 Burritos In
+Customer #3 with order of 22 burritos waiting in line
+                                                       Server #0 serving Customer #3
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Welcome! Cust #4 with order of 13 Burritos In
+Customer #4 with order of 13 burritos waiting in line
+Welcome! Cust #5 with order of 9 Burritos In
+                                                       Server # 2 is on register
+Customer #1 is paying...
+Welcome! Cust #6 with order of 25 Burritos In
+Customer #2 should reenter the line
+                                                       Server #1 serving Customer #5
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Good bye! Customer #1 is leaving the store
+                                                       Server # 2 has left register
+                                                       Server #2 serving Customer #4
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Customer #3 should reenter the line
+Customer #3 with order of 19 burritos waiting in line
+                                                       Server #0 serving Customer #6
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Welcome! Cust #7 with order of 11 Burritos In
+Customer #5 should reenter the line
+Customer #5 with order of 6 burritos waiting in line
+                                                       Server #1 serving Customer #2
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Customer #4 should reenter the line
+Customer #4 with order of 10 burritos waiting in line
+                                                       Server #2 serving Customer #3
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Welcome! Cust #8 with order of 25 Burritos In
+Customer #6 should reenter the line
+                                                       Server #0 serving Customer #5
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Welcome! Cust #9 with order of 25 Burritos In
+Customer #9 with order of 25 burritos waiting in line
+Customer #2 should reenter the line
+Customer #2 with order of 1 burritos waiting in line
+                                                       Server #1 serving Customer #4
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Customer #3 should reenter the line
+Customer #3 with order of 16 burritos waiting in line
+                                                       Server #2 serving Customer #7
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Customer #5 should reenter the line
+Customer #5 with order of 3 burritos waiting in line
+                                                       Server #0 serving Customer #8
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Welcome! Cust #10 with order of 3 Burritos In
+Welcome! Cust #11 with order of 16 Burritos In
+Customer #11 with order of 16 burritos waiting in line
+Welcome! Cust #12 with order of 20 Burritos In
+Customer #12 with order of 20 burritos waiting in line
+Customer #4 should reenter the line
+Customer #4 with order of 7 burritos waiting in line
+                                                       Server #1 serving Customer #2
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Customer #7 should reenter the line
+Customer #7 with order of 8 burritos waiting in line
+                                                       Server #2 serving Customer #5
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Welcome! Cust #13 with order of 9 Burritos In
+Customer #13 with order of 9 burritos waiting in line
+Welcome! Cust #14 with order of 3 Burritos In
+Customer #14 with order of 3 burritos waiting in line
+Customer #8 should reenter the line
+Customer #8 with order of 22 burritos waiting in line
+                                                       Server #0 serving Customer #3
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+                                                       Server # 1 is on register
+Customer #2 is paying...
+Good bye! Customer #2 is leaving the store
+                                                       Server # 1 has left register
+                                                       Server #1 serving Customer #6
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Welcome! Cust #15 with order of 9 Burritos In
+Customer #15 with order of 9 burritos waiting in line
+                                                       Server # 2 is on register
+Customer #5 is paying...
+Welcome! Cust #16 with order of 21 Burritos In
+Customer #16 with order of 21 burritos waiting in line
+Customer #3 should reenter the line
+Customer #3 with order of 13 burritos waiting in line
+                                                       Server #0 serving Customer #9
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Good bye! Customer #5 is leaving the store
+                                                       Server # 2 has left register
+                                                       Server #2 serving Customer #10
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Welcome! Cust #17 with order of 7 Burritos In
+Customer #6 should reenter the line
+Customer #6 with order of 19 burritos waiting in line
+                                                       Server #1 serving Customer #14
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Welcome! Cust #18 with order of 25 Burritos In
+Customer #18 with order of 25 burritos waiting in line
+Too many people inside Cust # 19 hsa left the stor
+Customer #9 should reenter the line
+Customer #9 with order of 22 burritos waiting in line
+                                                       Server #0 serving Customer #4
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+                                                       Server # 2 is on register
+Customer #10 is paying...
+Too many people inside Cust # 20 hsa left the stor
+Good bye! Customer #10 is leaving the store
+                                                       Server # 2 has left register
+                                                       Server #2 serving Customer #7
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+                                                       Server # 1 is on register
+Customer #14 is paying...
+Good bye! Customer #14 is leaving the store
+                                                       Server # 1 has left register
+                                                       Server #1 serving Customer #13
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Welcome! Cust #21 with order of 21 Burritos In
+Customer #21 with order of 21 burritos waiting in line
+Welcome! Cust #22 with order of 5 Burritos In
+Customer #22 with order of 5 burritos waiting in line
+Customer #4 should reenter the line
+Customer #4 with order of 4 burritos waiting in line
+                                                       Server #0 serving Customer #15
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #7 should reenter the line
+Customer #7 with order of 5 burritos waiting in line
+                                                       Server #2 serving Customer #3
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Customer #13 should reenter the line
+Customer #13 with order of 6 burritos waiting in line
+                                                       Server #1 serving Customer #11
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Too many people inside Cust # 23 hsa left the stor
+Too many people inside Cust # 24 hsa left the stor
+Too many people inside Cust # 25 hsa left the stor
+Too many people inside Cust # 26 hsa left the stor
+Customer #15 should reenter the line
+Customer #15 with order of 6 burritos waiting in line
+                                                       Server #0 serving Customer #12
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #3 should reenter the line
+Customer #3 with order of 10 burritos waiting in line
+                                                       Server #2 serving Customer #16
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Customer #11 should reenter the line
+Customer #11 with order of 13 burritos waiting in line
+                                                       Server #1 serving Customer #8
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Too many people inside Cust # 27 hsa left the stor
+Customer #12 should reenter the line
+                                                       Server #0 serving Customer #4
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #16 should reenter the line
+Customer #16 with order of 18 burritos waiting in line
+                                                       Server #2 serving Customer #22
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Too many people inside Cust # 28 hsa left the stor
+Customer #8 should reenter the line
+Customer #8 with order of 19 burritos waiting in line
+                                                       Server #1 serving Customer #7
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Too many people inside Cust # 29 hsa left the stor
+Customer #4 should reenter the line
+Customer #4 with order of 1 burritos waiting in line
+                                                       Server #0 serving Customer #13
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #22 should reenter the line
+Customer #22 with order of 2 burritos waiting in line
+                                                       Server #2 serving Customer #15
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Too many people inside Cust # 30 hsa left the stor
+Customer #7 should reenter the line
+Customer #7 with order of 2 burritos waiting in line
+                                                       Server #1 serving Customer #17
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Customer #13 should reenter the line
+Customer #13 with order of 3 burritos waiting in line
+                                                       Server #0 serving Customer #3
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #15 should reenter the line
+Customer #15 with order of 3 burritos waiting in line
+                                                       Server #2 serving Customer #11
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Customer #17 should reenter the line
+Customer #17 with order of 4 burritos waiting in line
+                                                       Server #1 serving Customer #6
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Customer #3 should reenter the line
+Customer #3 with order of 7 burritos waiting in line
+                                                       Server #0 serving Customer #21
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #11 should reenter the line
+Customer #11 with order of 10 burritos waiting in line
+                                                       Server #2 serving Customer #9
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Customer #6 should reenter the line
+Customer #6 with order of 16 burritos waiting in line
+                                                       Server #1 serving Customer #18
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Customer #21 should reenter the line
+                                                       Server #0 serving Customer #4
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #9 should reenter the line
+Customer #9 with order of 19 burritos waiting in line
+                                                       Server #2 serving Customer #22
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+                                                       Server # 0 is on register
+Customer #4 is paying...
+Customer #18 should reenter the line
+Customer #18 with order of 22 burritos waiting in line
+                                                       Server #1 serving Customer #7
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Good bye! Customer #4 is leaving the store
+                                                       Server # 0 has left register
+                                                       Server #0 serving Customer #13
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+                                                       Server # 2 is on register
+Customer #22 is paying...
+Good bye! Customer #22 is leaving the store
+                                                       Server # 2 has left register
+                                                       Server #2 serving Customer #15
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+                                                       Server # 1 is on register
+Customer #7 is paying...
+Good bye! Customer #7 is leaving the store
+                                                       Server # 1 has left register
+                                                       Server #1 serving Customer #17
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+                                                       Server # 0 is on register
+Customer #13 is paying...
+Good bye! Customer #13 is leaving the store
+                                                       Server # 0 has left register
+                                                       Server #0 serving Customer #3
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+                                                       Server # 2 is on register
+Customer #15 is paying...
+Good bye! Customer #15 is leaving the store
+                                                       Server # 2 has left register
+                                                       Server #2 serving Customer #11
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Customer #17 should reenter the line
+Customer #17 with order of 1 burritos waiting in line
+                                                       Server #1 serving Customer #6
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Customer #3 should reenter the line
+Customer #3 with order of 4 burritos waiting in line
+                                                       Server #0 serving Customer #12
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #11 should reenter the line
+Customer #11 with order of 7 burritos waiting in line
+                                                       Server #2 serving Customer #16
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Customer #6 should reenter the line
+Customer #6 with order of 13 burritos waiting in line
+                                                       Server #1 serving Customer #8
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Customer #12 should reenter the line
+                                                       Server #0 serving Customer #17
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+                                                       Server # 0 is on register
+Customer #17 is paying...
+Customer #16 should reenter the line
+Customer #16 with order of 15 burritos waiting in line
+                                                       Server #2 serving Customer #3
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Good bye! Customer #17 is leaving the store
+                                                       Server # 0 has left register
+                                                       Server #0 serving Customer #11
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #8 should reenter the line
+Customer #8 with order of 16 burritos waiting in line
+                                                       Server #1 serving Customer #6
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Customer #3 should reenter the line
+Customer #3 with order of 1 burritos waiting in line
+                                                       Server #2 serving Customer #21
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Customer #11 should reenter the line
+Customer #11 with order of 4 burritos waiting in line
+                                                       Server #0 serving Customer #9
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #6 should reenter the line
+Customer #6 with order of 10 burritos waiting in line
+                                                       Server #1 serving Customer #18
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Customer #21 should reenter the line
+                                                       Server #2 serving Customer #3
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Customer #9 should reenter the line
+Customer #9 with order of 16 burritos waiting in line
+                                                       Server #0 serving Customer #11
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #18 should reenter the line
+Customer #18 with order of 19 burritos waiting in line
+                                                       Server #1 serving Customer #6
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+                                                       Server # 2 is on register
+Customer #3 is paying...
+Good bye! Customer #3 is leaving the store
+                                                       Server # 2 has left register
+                                                       Server #2 serving Customer #12
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Customer #11 should reenter the line
+Customer #11 with order of 1 burritos waiting in line
+                                                       Server #0 serving Customer #16
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #6 should reenter the line
+Customer #6 with order of 7 burritos waiting in line
+                                                       Server #1 serving Customer #8
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Customer #12 should reenter the line
+                                                       Server #2 serving Customer #11
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+                                                       Server # 2 is on register
+Customer #11 is paying...
+Good bye! Customer #11 is leaving the store
+                                                       Server # 2 has left register
+                                                       Server #2 serving Customer #6
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Customer #16 should reenter the line
+Customer #16 with order of 12 burritos waiting in line
+                                                       Server #0 serving Customer #21
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #8 should reenter the line
+Customer #8 with order of 13 burritos waiting in line
+                                                       Server #1 serving Customer #9
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Customer #6 should reenter the line
+Customer #6 with order of 4 burritos waiting in line
+                                                       Server #2 serving Customer #18
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Customer #21 should reenter the line
+                                                       Server #0 serving Customer #6
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #9 should reenter the line
+Customer #9 with order of 13 burritos waiting in line
+                                                       Server #1 serving Customer #12
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Customer #18 should reenter the line
+Customer #18 with order of 16 burritos waiting in line
+                                                       Server #2 serving Customer #16
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Customer #6 should reenter the line
+Customer #6 with order of 1 burritos waiting in line
+                                                       Server #0 serving Customer #8
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #12 should reenter the line
+                                                       Server #1 serving Customer #6
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+                                                       Server # 1 is on register
+Customer #6 is paying...
+Good bye! Customer #6 is leaving the store
+                                                       Server # 1 has left register
+                                                       Server #1 serving Customer #21
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Customer #16 should reenter the line
+Customer #16 with order of 9 burritos waiting in line
+                                                       Server #2 serving Customer #9
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Customer #8 should reenter the line
+Customer #8 with order of 10 burritos waiting in line
+                                                       Server #0 serving Customer #18
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #21 should reenter the line
+                                                       Server #1 serving Customer #12
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Customer #9 should reenter the line
+Customer #9 with order of 10 burritos waiting in line
+                                                       Server #2 serving Customer #16
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Customer #18 should reenter the line
+Customer #18 with order of 13 burritos waiting in line
+                                                       Server #0 serving Customer #8
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #12 should reenter the line
+                                                       Server #1 serving Customer #21
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Customer #16 should reenter the line
+Customer #16 with order of 6 burritos waiting in line
+                                                       Server #2 serving Customer #9
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Customer #8 should reenter the line
+Customer #8 with order of 7 burritos waiting in line
+                                                       Server #0 serving Customer #18
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #21 should reenter the line
+                                                       Server #1 serving Customer #12
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Customer #9 should reenter the line
+Customer #9 with order of 7 burritos waiting in line
+                                                       Server #2 serving Customer #16
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Customer #18 should reenter the line
+Customer #18 with order of 10 burritos waiting in line
+                                                       Server #0 serving Customer #8
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #12 should reenter the line
+                                                       Server #1 serving Customer #21
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Customer #16 should reenter the line
+Customer #16 with order of 3 burritos waiting in line
+                                                       Server #2 serving Customer #9
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Customer #8 should reenter the line
+Customer #8 with order of 4 burritos waiting in line
+                                                       Server #0 serving Customer #18
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #21 should reenter the line
+                                                       Server #1 serving Customer #12
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+Customer #9 should reenter the line
+Customer #9 with order of 4 burritos waiting in line
+                                                       Server #2 serving Customer #16
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Customer #18 should reenter the line
+Customer #18 with order of 7 burritos waiting in line
+                                                       Server #0 serving Customer #8
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+                                                       Server # 1 is on register
+Customer #12 is paying...
+Good bye! Customer #12 is leaving the store
+                                                       Server # 1 has left register
+                                                       Server #1 serving Customer #21
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+                                                       Server # 2 is on register
+Customer #16 is paying...
+Good bye! Customer #16 is leaving the store
+                                                       Server # 2 has left register
+                                                       Server #2 serving Customer #9
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Customer #8 should reenter the line
+                                                       Server #0 serving Customer #18
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+                                                       Server # 1 is on register
+Customer #21 is paying...
+Good bye! Customer #21 is leaving the store
+                                                       Server # 1 has left register
+                                                       Server #1 serving Customer #8
+                                                       Server #1 has obtained all ingredients
+                                                       Cooking...
+                                                       Server # 1 is on register
+Customer #8 is paying...
+Good bye! Customer #8 is leaving the store
+                                                       Server # 1 has left register
+Customer #9 should reenter the line
+Customer #9 with order of 1 burritos waiting in line
+                                                       Server #2 serving Customer #9
+                                                       Server #2 has obtained all ingredients
+                                                       Cooking...
+Customer #18 should reenter the line
+Customer #18 with order of 4 burritos waiting in line
+                                                       Server #0 serving Customer #18
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+                                                       Server # 2 is on register
+Customer #9 is paying...
+Good bye! Customer #9 is leaving the store
+                                                       Server # 2 has left register
+Customer #18 should reenter the line
+Customer #18 with order of 1 burritos waiting in line
+                                                       Server #0 serving Customer #18
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+                                                       Server # 0 is on register
+Customer #18 is paying...
+Good bye! Customer #18 is leaving the store
+                                                       Server # 0 has left register
+Server #1 finish his job
+Server #2 finish his job
+Server #0 finish his job
+Store is closed
+BUILD SUCCESSFUL (total time: 2 minutes 42 seconds)

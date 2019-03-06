@@ -1,0 +1,71 @@
+run:
+Welcome to Burrito Brothers restaurant
+
+Choose simulator mode: 
+1: Automatic Mode *automatically processes orders
+2: Manual Entry Mode (Advanced) 
+2
+How many CUSTOMERS to simulate? MAX:30 
+1
+How many SERVERS to simulate? MAX:3 
+1
+Setup store capacity *store capacity must be greater than 1 MAX:15 
+2
+Setup customer generator frequency's upper limit (in MILLISECONDS) 
+4000
+Setup Cooking time (in MILLISECONDS) for one burrito
+4000
+Setup Register speed (in MILLISECONDS)
+4000
+------------- Customers activity --------------------|-------------------- Servers activity --------------|---------- Waiting line and Register line -------------
+Welcome! Cust #1 with order of 16 Burritos In
+Customer #1 with order of 16 burritos waiting in line
+                                                                                                              Customers in line:
+                                                                                                              C1(16)-
+                                                       Server #0 serving Customer #1
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #1 should reenter the line
+Customer #1 with order of 13 burritos waiting in line
+                                                                                                              Customers in line:
+                                                                                                              C1(13)-
+                                                       Server #0 serving Customer #1
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #1 should reenter the line
+Customer #1 with order of 10 burritos waiting in line
+                                                                                                              Customers in line:
+                                                                                                              C1(10)-
+                                                       Server #0 serving Customer #1
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #1 should reenter the line
+Customer #1 with order of 7 burritos waiting in line
+                                                                                                              Customers in line:
+                                                                                                              C1(7)-
+                                                       Server #0 serving Customer #1
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #1 should reenter the line
+Customer #1 with order of 4 burritos waiting in line
+                                                                                                              Customers in line:
+                                                                                                              C1(4)-
+                                                       Server #0 serving Customer #1
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+Customer #1 should reenter the line
+Customer #1 with order of 1 burritos waiting in line
+                                                                                                              Customers in line:
+                                                                                                              C1(1)-
+                                                       Server #0 serving Customer #1
+                                                       Server #0 has obtained all ingredients
+                                                       Cooking...
+                                                                                                              Customers on register:
+                                                                                                              C1<=
+                                                       Server # 0 is on register
+Customer #1 is paying...
+Good bye! Customer #1 is leaving the store
+                                                       Server # 0 has left register
+Server #0 finish his job
+Store is closed
+BUILD SUCCESSFUL (total time: 3 minutes 59 seconds)
